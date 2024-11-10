@@ -6,4 +6,4 @@ Made with:
 - CSS3
 - JavaScript
 
-<img src="https://i.ibb.co/1bJ65sd/yes.gif" width="100" height="100">
+<img src="https://github.com/Dyplay/blueverified_checkmark_chrome_extension/blob/main/explaining.gif?raw=true" width="100" height="100">
